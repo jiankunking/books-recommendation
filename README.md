@@ -4,9 +4,16 @@
 
 ## [ansible](https://github.com/jiankunking/books-recommendation/tree/master/ansible) ##
 
+- 奔跑吧 ANSIBLE
+
 ## [architecture](https://github.com/jiankunking/books-recommendation/tree/master/architecture) ##
 
+- 分布式服务架构.原理、设计与实战
+- 大型网站技术架构：核心原理与案例分析
+
 ## [basics](https://github.com/jiankunking/books-recommendation/tree/master/basics) ##
+
+- 图解TCPIP.pdf
 
 ## [docker](https://github.com/jiankunking/books-recommendation/tree/master/docker) ##
 
