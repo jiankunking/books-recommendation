@@ -59,6 +59,7 @@
 ## [netty](https://github.com/jiankunking/books-recommendation/tree/master/netty) ##
 
 - Netty实战
+- Netty权威指南_第2版_带书签目录_完整版.pdf
 
 ## [regex](https://github.com/jiankunking/books-recommendation/tree/master/regex) ##
 
