@@ -42,6 +42,8 @@
 - java并发编程实战pdf及源码
 - Java虚拟机（第二版）
 - 实战JAVA虚拟机JVM故障诊断与性能优化
+- HotSpot实战
+- Java虚拟机精讲
 
 ## [kubernetes](https://github.com/jiankunking/books-recommendation/tree/master/kubernetes) ##
 
@@ -77,3 +79,11 @@
 ## [zookeeper](https://github.com/jiankunking/books-recommendation/tree/master/zookeeper) ##
 
 - 从PAXOS到ZOOKEEPER分布式一致性原理与实践
+
+##  [kakfa](https://github.com/jiankunking/books-recommendation/tree/master/kafka) ##
+
+- Kafka技术内幕
+
+##  [distributed](https://github.com/jiankunking/books-recommendation/tree/master/distributed) ##
+
+- 大规模分布式存储系统：原理解析与架构实战
