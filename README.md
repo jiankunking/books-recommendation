@@ -87,3 +87,7 @@
 ##  [distributed](https://github.com/jiankunking/books-recommendation/tree/master/distributed) ##
 
 - 大规模分布式存储系统：原理解析与架构实战
+
+##  [monitor](https://github.com/jiankunking/books-recommendation/tree/master/monitor) ##
+
+- 淘宝-鹰眼
