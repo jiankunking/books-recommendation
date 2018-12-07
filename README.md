@@ -91,3 +91,8 @@
 ##  [monitor](https://github.com/jiankunking/books-recommendation/tree/master/monitor) ##
 
 - 淘宝-鹰眼
+
+## [prometheus](https://github.com/jiankunking/books-recommendation/tree/master/prometheus) ##
+
+ - Prometheus 实战
+  
