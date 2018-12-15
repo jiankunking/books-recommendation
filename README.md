@@ -95,4 +95,8 @@
 ## [prometheus](https://github.com/jiankunking/books-recommendation/tree/master/prometheus) ##
 
  - Prometheus 实战
+
+## [GC](https://github.com/jiankunking/books-recommendation/tree/master/gc) ##
+
+ - 垃圾回收的算法与实现---文字版.pdf
   
