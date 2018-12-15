@@ -30,6 +30,7 @@
 - Go语言学习笔记_雨痕
 - go-internals-zh
 - steal
+- go-gc（Rick Hudson）
 
 ## [http](https://github.com/jiankunking/books-recommendation/tree/master/http) ##
 
