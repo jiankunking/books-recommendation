@@ -23,6 +23,8 @@
 ## [elk](https://github.com/jiankunking/books-recommendation/tree/master/elk) ##
 
 - elk-stack-guide-cn
+- Elasticsearch服务器开发（第2版）
+- 深入理解ElasticSearch
 
 ## [go](https://github.com/jiankunking/books-recommendation/tree/master/go) ##
 
