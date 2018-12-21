@@ -53,6 +53,8 @@
 ## [linux](https://github.com/jiankunking/books-recommendation/tree/master/linux) ##
 
 - 鸟哥的Linux私房菜
+- Linux程序设计第四版CN
+- UNIX环境高级编程（中文第三版）_扫描版.pdf
 
 ## [mysql](https://github.com/jiankunking/books-recommendation/tree/master/mysql) ##
 
@@ -100,4 +102,3 @@
 ## [GC](https://github.com/jiankunking/books-recommendation/tree/master/gc) ##
 
  - 垃圾回收的算法与实现---文字版.pdf
-  
