@@ -104,3 +104,19 @@
 ## [GC](https://github.com/jiankunking/books-recommendation/tree/master/gc) ##
 
  - 垃圾回收的算法与实现---文字版.pdf
+ - ZGC
+
+## [IT休闲书籍](https://github.com/jiankunking/books-recommendation/tree/master/IT%E4%BC%91%E9%97%B2%E4%B9%A6%E7%B1%8D) ##
+
+ - 编程人生 15位软件先驱访谈录
+ - 重构 改善既有代码的设计
+ - 黑客与画家(中文版).pdf
+
+## [MicroServices](https://github.com/jiankunking/books-recommendation/tree/master/MicroServices) ##
+
+ - 微服务设计 ,崔力强，张骏译 ,P210.pdf
+
+
+## [basics](https://github.com/jiankunking/books-recommendation/tree/master/basics) ##
+
+ - 深入理解计算机系统
