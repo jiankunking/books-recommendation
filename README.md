@@ -63,6 +63,7 @@
 - MySQL技术内幕_InnoDB存储引擎_第2版
 - 高性能mysql第三版
 - canal
+- otter
 
 ## [netty](https://github.com/jiankunking/books-recommendation/tree/master/netty) ##
 
