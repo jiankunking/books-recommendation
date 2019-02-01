@@ -125,3 +125,8 @@
 ## [basics](https://github.com/jiankunking/books-recommendation/tree/master/basics) ##
 
  - 深入理解计算机系统
+
+## [MongoDB](https://github.com/jiankunking/books-recommendation/tree/master/MongoDB) ##
+ 
+ - MongoDB权威指南第2版
+
