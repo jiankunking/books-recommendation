@@ -130,7 +130,7 @@
  
  - MongoDB权威指南第2版
 
-## [小说](https://github.com/jiankunking/books-recommendation/tree/master/MongoDB) ##
+## [小说](https://github.com/jiankunking/books-recommendation/tree/master/%E5%B0%8F%E8%AF%B4) ##
  
  - 罗生门
  - 人间失格
