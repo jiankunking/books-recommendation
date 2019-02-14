@@ -52,6 +52,7 @@
 ## [kubernetes](https://github.com/jiankunking/books-recommendation/tree/master/kubernetes) ##
 
 - Kubernetes权威指南：从Docker到Kubernetes实践全接触（第2版)
+- Kubernetes生态环境
 
 ## [linux](https://github.com/jiankunking/books-recommendation/tree/master/linux) ##
 
