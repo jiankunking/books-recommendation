@@ -136,7 +136,11 @@
  
  - MongoDB权威指南第2版
 
-## [小说](https://github.com/jiankunking/books-recommendation/tree/master/%E5%B0%8F%E8%AF%B4) ##
+## [网络](https://github.com/jiankunking/books-recommendation/tree/master/网络) ##
+ 
+ - 图解网络硬件完整版
+
+## [小说](https://github.com/jiankunking/books-recommendation/tree/master/小说) ##
  
  - 罗生门
  - 人间失格
