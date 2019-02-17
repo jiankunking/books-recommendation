@@ -42,7 +42,7 @@
 
 - 深入理解JVM＆G1GC
 - Java并发编程的艺术
-- java并发编程实战pdf及源码
+- java并发编程实战及源码
 - Java虚拟机（第二版）
 - 实战JAVA虚拟机JVM故障诊断与性能优化
 - HotSpot实战
@@ -58,7 +58,7 @@
 
 - 鸟哥的Linux私房菜
 - Linux程序设计第四版CN
-- UNIX环境高级编程（中文第三版）_扫描版.pdf
+- UNIX环境高级编程（中文第三版）_扫描版
 
 ## [mysql](https://github.com/jiankunking/books-recommendation/tree/master/mysql) ##
 
@@ -70,7 +70,12 @@
 ## [netty](https://github.com/jiankunking/books-recommendation/tree/master/netty) ##
 
 - Netty实战
-- Netty权威指南_第2版_带书签目录_完整版.pdf
+- Netty权威指南_第2版_带书签目录_完整版
+
+## [netty](https://github.com/jiankunking/books-recommendation/tree/master/nginx) ##
+
+- Nginx模块开发与架构解析
+- 实战Nginx
 
 ## [regex](https://github.com/jiankunking/books-recommendation/tree/master/regex) ##
 
@@ -107,7 +112,7 @@
 
 ## [GC](https://github.com/jiankunking/books-recommendation/tree/master/gc) ##
 
- - 垃圾回收的算法与实现---文字版.pdf
+ - 垃圾回收的算法与实现
  - ZGC
  - G1
  - Shenandoah
@@ -116,11 +121,11 @@
 
  - 编程人生 15位软件先驱访谈录
  - 重构 改善既有代码的设计
- - 黑客与画家(中文版).pdf
+ - 黑客与画家(中文版)
 
 ## [MicroServices](https://github.com/jiankunking/books-recommendation/tree/master/MicroServices) ##
 
- - 微服务设计 ,崔力强，张骏译 ,P210.pdf
+ - 微服务设计 ,崔力强，张骏译
 
 
 ## [basics](https://github.com/jiankunking/books-recommendation/tree/master/basics) ##
