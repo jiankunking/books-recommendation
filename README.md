@@ -72,10 +72,14 @@
 - Netty实战
 - Netty权威指南_第2版_带书签目录_完整版
 
-## [netty](https://github.com/jiankunking/books-recommendation/tree/master/nginx) ##
+## [nginx](https://github.com/jiankunking/books-recommendation/tree/master/nginx) ##
 
 - Nginx模块开发与架构解析
 - 实战Nginx
+
+## [envoy](https://github.com/jiankunking/books-recommendation/tree/master/envoy) ##
+
+- envoyproxy-servicemesher-v1.7
 
 ## [regex](https://github.com/jiankunking/books-recommendation/tree/master/regex) ##
 
@@ -133,15 +137,15 @@
  - 深入理解计算机系统
 
 ## [MongoDB](https://github.com/jiankunking/books-recommendation/tree/master/MongoDB) ##
- 
+
  - MongoDB权威指南第2版
 
 ## [网络](https://github.com/jiankunking/books-recommendation/tree/master/网络) ##
- 
+
  - 图解网络硬件完整版
 
 ## [小说](https://github.com/jiankunking/books-recommendation/tree/master/小说) ##
- 
+
  - 罗生门
  - 人间失格
  - 爱的进化论
