@@ -2,31 +2,31 @@
 
 # Catalog #
 
-## [ansible](https://github.com/jiankunking/books-recommendation/tree/master/ansible) ##
+## [Ansible](https://github.com/jiankunking/books-recommendation/tree/master/Ansible) ##
 
 - 奔跑吧 ANSIBLE
 
-## [architecture](https://github.com/jiankunking/books-recommendation/tree/master/architecture) ##
+## [Architecture](https://github.com/jiankunking/books-recommendation/tree/master/Architecture) ##
 
 - 分布式服务架构.原理、设计与实战
 - 大型网站技术架构：核心原理与案例分析
 
-## [docker](https://github.com/jiankunking/books-recommendation/tree/master/docker) ##
+## [Docker](https://github.com/jiankunking/books-recommendation/tree/master/Docker) ##
 
 - DOCKER技术入门与实战
 - Docker容器与容器云第2版
 
-## [dotnet](https://github.com/jiankunking/books-recommendation/tree/master/dotnet) ##
+## [DotNet](https://github.com/jiankunking/books-recommendation/tree/master/DotNet) ##
 
 - NET_CLR_via_C#(第4版)
 
-## [elk](https://github.com/jiankunking/books-recommendation/tree/master/elk) ##
+## [ELK](https://github.com/jiankunking/books-recommendation/tree/master/ELK) ##
 
 - elk-stack-guide-cn
 - Elasticsearch服务器开发（第2版）
 - 深入理解ElasticSearch
 
-## [go](https://github.com/jiankunking/books-recommendation/tree/master/go) ##
+## [Go](https://github.com/jiankunking/books-recommendation/tree/master/Go) ##
 
 - Go并发编程实战_第2版_郝林
 - Go语言学习笔记_雨痕
@@ -34,11 +34,15 @@
 - steal
 - go-gc（Rick Hudson）
 
-## [http](https://github.com/jiankunking/books-recommendation/tree/master/http) ##
+## [JavaScript](https://github.com/jiankunking/books-recommendation/tree/master/JavaScript) ##
+
+- JavaScript权威指南
+
+## [HTTP](https://github.com/jiankunking/books-recommendation/tree/master/HTTP) ##
 
 - 图解HTTP+彩色版
   
-## [java](https://github.com/jiankunking/books-recommendation/tree/master/java) ##
+## [Java](https://github.com/jiankunking/books-recommendation/tree/master/Java) ##
 
 - 深入理解JVM＆G1GC
 - Java并发编程的艺术
@@ -49,68 +53,68 @@
 - Java虚拟机精
 - 码出高效：Java 开发手册
 
-## [kubernetes](https://github.com/jiankunking/books-recommendation/tree/master/kubernetes) ##
+## [Kubernetes](https://github.com/jiankunking/books-recommendation/tree/master/Kubernetes) ##
 
 - Kubernetes权威指南：从Docker到Kubernetes实践全接触（第2版)
 - kubernetes-handbook
 
-## [linux](https://github.com/jiankunking/books-recommendation/tree/master/linux) ##
+## [Linux](https://github.com/jiankunking/books-recommendation/tree/master/Linux) ##
 
 - 鸟哥的Linux私房菜
 - Linux程序设计第四版CN
 - UNIX环境高级编程（中文第三版）_扫描版
 
-## [mysql](https://github.com/jiankunking/books-recommendation/tree/master/mysql) ##
+## [MySQL](https://github.com/jiankunking/books-recommendation/tree/master/MySQL) ##
 
 - MySQL技术内幕_InnoDB存储引擎_第2版
 - 高性能mysql第三版
 - canal
 - otter
 
-## [netty](https://github.com/jiankunking/books-recommendation/tree/master/netty) ##
+## [Netty](https://github.com/jiankunking/books-recommendation/tree/master/Netty) ##
 
 - Netty实战
 - Netty权威指南_第2版_带书签目录_完整版
 
-## [nginx](https://github.com/jiankunking/books-recommendation/tree/master/nginx) ##
+## [Nginx](https://github.com/jiankunking/books-recommendation/tree/master/Nginx) ##
 
 - Nginx模块开发与架构解析
 - 实战Nginx
 
-## [envoy](https://github.com/jiankunking/books-recommendation/tree/master/envoy) ##
+## [Envoy](https://github.com/jiankunking/books-recommendation/tree/master/Envoy) ##
 
 - envoyproxy-servicemesher-v1.7
 
-## [regex](https://github.com/jiankunking/books-recommendation/tree/master/regex) ##
+## [RegEx](https://github.com/jiankunking/books-recommendation/tree/master/RegEx) ##
 
 - 精通正则表达式_中文版
 
-## [restful](https://github.com/jiankunking/books-recommendation/tree/master/restful) ##
+## [REST](https://github.com/jiankunking/books-recommendation/tree/master/REST) ##
 
 - Roy_Thomas_Fielding博士论文REST(中文版)
 
-## [tcp](https://github.com/jiankunking/books-recommendation/tree/master/tcp) ##
+## [TCP](https://github.com/jiankunking/books-recommendation/tree/master/TCP) ##
 
 - 图解TCPIP
 - TCP-IP详解
 
-## [zookeeper](https://github.com/jiankunking/books-recommendation/tree/master/zookeeper) ##
+## [ZooKeeper](https://github.com/jiankunking/books-recommendation/tree/master/ZooKeeper) ##
 
 - 从PAXOS到ZOOKEEPER分布式一致性原理与实践
 
-##  [kakfa](https://github.com/jiankunking/books-recommendation/tree/master/kafka) ##
+##  [Kafka](https://github.com/jiankunking/books-recommendation/tree/master/Kafka) ##
 
 - Kafka技术内幕
 
-##  [distributed](https://github.com/jiankunking/books-recommendation/tree/master/distributed) ##
+##  [Distributed](https://github.com/jiankunking/books-recommendation/tree/master/Distributed) ##
 
 - 大规模分布式存储系统：原理解析与架构实战
 
-##  [monitor](https://github.com/jiankunking/books-recommendation/tree/master/monitor) ##
+##  [Monitor](https://github.com/jiankunking/books-recommendation/tree/master/Monitor) ##
 
 - 淘宝-鹰眼
 
-## [prometheus](https://github.com/jiankunking/books-recommendation/tree/master/prometheus) ##
+## [Prometheus](https://github.com/jiankunking/books-recommendation/tree/master/Prometheus) ##
 
  - Prometheus 实战
 
@@ -132,7 +136,7 @@
  - 微服务设计 ,崔力强，张骏译
 
 
-## [basics](https://github.com/jiankunking/books-recommendation/tree/master/basics) ##
+## [计算机基础](https://github.com/jiankunking/books-recommendation/tree/master/计算机基础) ##
 
  - 深入理解计算机系统
 
