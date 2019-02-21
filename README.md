@@ -105,6 +105,7 @@
 ##  [Kafka](https://github.com/jiankunking/books-recommendation/tree/master/Kafka) ##
 
 - Kafka技术内幕
+- Kafka权威指南
 
 ##  [Distributed](https://github.com/jiankunking/books-recommendation/tree/master/Distributed) ##
 
