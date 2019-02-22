@@ -115,6 +115,18 @@
 
 - 淘宝-鹰眼
 
+##  [日志](https://github.com/jiankunking/books-recommendation/tree/master/日志) ##
+
+- AIOps白皮书资料
+    - 企业AIOPs实施白皮书
+    - 数据驱动的智能运维平台
+- InfoQ运维大会日志处理专题演讲干货合集
+    - 曹林华-沪江网日志平台化之路
+    - 黎吾平-日志分析场景下的搜索引擎改进
+    - 林冰玉-QA 与Ops通力打造反脆弱的软件系统
+    - 周辉-新思路打造移动端个案综合日志分析系统
+
+
 ## [Prometheus](https://github.com/jiankunking/books-recommendation/tree/master/Prometheus) ##
 
  - Prometheus 实战
