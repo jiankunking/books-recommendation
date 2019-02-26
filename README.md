@@ -106,6 +106,10 @@
 
 - Kafka技术内幕
 - Kafka权威指南
+- Apache Kafka实战
+- Kafka入门与实践
+- Kafka源码解析与实战
+- Apache Kafka源码剖析
 
 ##  [Distributed](https://github.com/jiankunking/books-recommendation/tree/master/Distributed) ##
 
