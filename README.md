@@ -105,11 +105,11 @@
 ##  [Kafka](https://github.com/jiankunking/books-recommendation/tree/master/Kafka) ##
 
 - Kafka技术内幕
-- Kafka权威指南
+- Kafka权威指南（推荐）
 - Apache Kafka实战
 - Kafka入门与实践
 - Kafka源码解析与实战
-- Apache Kafka源码剖析
+- Apache Kafka源码剖析（推荐）
 
 ##  [Distributed](https://github.com/jiankunking/books-recommendation/tree/master/Distributed) ##
 
