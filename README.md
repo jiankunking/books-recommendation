@@ -142,6 +142,7 @@
  - G1
  - Shenandoah
  - GenCon
+ - HotSpot Virtual Machine Garbage Collection
 
 ## [IT休闲书籍](https://github.com/jiankunking/books-recommendation/tree/master/IT%E4%BC%91%E9%97%B2%E4%B9%A6%E7%B1%8D) ##
 
