@@ -50,7 +50,7 @@
 - Java虚拟机（第二版）
 - 实战JAVA虚拟机JVM故障诊断与性能优化
 - HotSpot实战
-- Java虚拟机精
+- Java虚拟机精讲
 - 码出高效：Java 开发手册
 
 ## [Kubernetes](https://github.com/jiankunking/books-recommendation/tree/master/Kubernetes) ##
