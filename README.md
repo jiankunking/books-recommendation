@@ -41,6 +41,8 @@
 ## [HTTP](https://github.com/jiankunking/books-recommendation/tree/master/HTTP) ##
 
 - 图解HTTP+彩色版
+- HTTP-2基础教程
+- Web性能权威指南
   
 ## [Java](https://github.com/jiankunking/books-recommendation/tree/master/Java) ##
 
