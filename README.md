@@ -9,7 +9,7 @@
 ## [Architecture](https://github.com/jiankunking/books-recommendation/tree/master/Architecture) ##
 
 - 分布式服务架构.原理、设计与实战
-- 大型网站技术架构：核心原理与案例分析
+- 大型网站技术架构：核心原理与案例分析（推荐）
 
 ## [Docker](https://github.com/jiankunking/books-recommendation/tree/master/Docker) ##
 
@@ -18,7 +18,7 @@
 
 ## [DotNet](https://github.com/jiankunking/books-recommendation/tree/master/DotNet) ##
 
-- NET_CLR_via_C#(第4版)
+- NET_CLR_via_C#(第4版)（推荐）
 
 ## [ELK](https://github.com/jiankunking/books-recommendation/tree/master/ELK) ##
 
@@ -47,7 +47,7 @@
 ## [Java](https://github.com/jiankunking/books-recommendation/tree/master/Java) ##
 
 - 深入理解JVM＆G1GC
-- Java并发编程的艺术
+- Java并发编程的艺术（推荐）
 - java并发编程实战及源码
 - Java虚拟机（第二版）
 - 实战JAVA虚拟机JVM故障诊断与性能优化
@@ -68,7 +68,7 @@
 
 ## [MySQL](https://github.com/jiankunking/books-recommendation/tree/master/MySQL) ##
 
-- MySQL技术内幕_InnoDB存储引擎_第2版
+- MySQL技术内幕_InnoDB存储引擎_第2版（推荐）
 - 高性能mysql第三版
 - canal
 - otter
@@ -141,10 +141,18 @@
 
  - 垃圾回收的算法与实现
  - ZGC
+   - Azul_Pauseless_GC_Algorithm.pdf
+   - ZGC-FOSDEM-2018.pdf
  - G1
+   - Java 9 - Garbage Collection.pdf
  - Shenandoah
+   - Shenandoah_GC.pdf
  - GenCon
+   - 2018-researchguide-java.pdf
  - HotSpot Virtual Machine Garbage Collection
+   - JSGCT.epub
+   - JSGCT.mobi
+   - JSGCT.pdf
 
 ## [IT休闲书籍](https://github.com/jiankunking/books-recommendation/tree/master/IT%E4%BC%91%E9%97%B2%E4%B9%A6%E7%B1%8D) ##
 
@@ -168,6 +176,9 @@
 ## [网络](https://github.com/jiankunking/books-recommendation/tree/master/网络) ##
 
  - 图解网络硬件完整版
+
+## [CPU](https://github.com/jiankunking/books-recommendation/tree/master/CPU) 
+ - 64-ia-32-architectures-software-developer-vol-3a-part-1-manual.pdf
 
 ## [小说](https://github.com/jiankunking/books-recommendation/tree/master/小说) ##
 
