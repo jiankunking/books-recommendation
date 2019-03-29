@@ -180,6 +180,10 @@
 ## [CPU](https://github.com/jiankunking/books-recommendation/tree/master/CPU) 
  - 64-ia-32-architectures-software-developer-vol-3a-part-1-manual.pdf
 
+## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
+ - 64-ia-32-architectures-software-developer-vol-3a-part-1-manual.pdf
+
+
 ## [小说](https://github.com/jiankunking/books-recommendation/tree/master/小说) ##
 
  - 罗生门
