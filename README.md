@@ -54,6 +54,7 @@
 - HotSpot实战
 - Java虚拟机精讲
 - 码出高效：Java 开发手册
+- Java性能调优指南
 
 ## [Kubernetes](https://github.com/jiankunking/books-recommendation/tree/master/Kubernetes) ##
 
