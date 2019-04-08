@@ -184,6 +184,8 @@
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
  - 剑指Offer
  - 程序员面试宝典（第五版）
+ - 算法图解
+ - 算法新解_刘新宇
 
 
 ## [小说](https://github.com/jiankunking/books-recommendation/tree/master/小说) ##
