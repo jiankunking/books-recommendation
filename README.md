@@ -38,6 +38,7 @@
 - elk-stack-guide-cn
 - Elasticsearch服务器开发（第2版）
 - 深入理解ElasticSearch
+- Elasticsearch源码解析与优化实战（推荐）
 
 ## [Envoy](https://github.com/jiankunking/books-recommendation/tree/master/Envoy) ##
 
