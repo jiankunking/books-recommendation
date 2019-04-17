@@ -93,6 +93,7 @@
 - Java虚拟机精讲
 - 码出高效：Java 开发手册
 - Java性能调优指南
+- 深入分析Java Web技术内幕（修订版）带完整目录（推荐）
 
 ## [JavaScript](https://github.com/jiankunking/books-recommendation/tree/master/JavaScript) ##
 
