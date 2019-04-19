@@ -112,6 +112,8 @@
 
 - Kubernetes权威指南：从Docker到Kubernetes实践全接触（第2版)
 - kubernetes-handbook
+  - feiskyer
+  - rootsongjc
 
 ## [Linux](https://github.com/jiankunking/books-recommendation/tree/master/Linux) ##
 
