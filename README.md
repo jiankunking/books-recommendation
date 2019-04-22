@@ -78,22 +78,25 @@
 ## [IT休闲书籍](https://github.com/jiankunking/books-recommendation/tree/master/IT%E4%BC%91%E9%97%B2%E4%B9%A6%E7%B1%8D) ##
 
  - 编程人生 15位软件先驱访谈录
- - 重构 改善既有代码的设计
- - 黑客与画家(中文版)
  - 性能之巅 洞悉系统、企业与云计算
+ - 重构 改善既有代码的设计
+ - Clean Code(代码整洁之道，中文，完整目录)
+ - 黑客与画家(中文版)
+
   
 ## [Java](https://github.com/jiankunking/books-recommendation/tree/master/Java) ##
 
+- HotSpot实战
+- Java编程思想第四版
+- 深入分析Java Web技术内幕（修订版）带完整目录（<font face="宋体" color=DeepPink>推荐</font>）
 - 深入理解JVM＆G1GC
 - Java并发编程的艺术（<font face="宋体" color=DeepPink>推荐</font>）
 - java并发编程实战及源码
+- Java性能调优指南
 - Java虚拟机（第二版）
-- 实战JAVA虚拟机JVM故障诊断与性能优化
-- HotSpot实战
 - Java虚拟机精讲
 - 码出高效：Java 开发手册
-- Java性能调优指南
-- 深入分析Java Web技术内幕（修订版）带完整目录（<font face="宋体" color=DeepPink>推荐</font>）
+- 实战JAVA虚拟机JVM故障诊断与性能优化
 
 ## [JavaScript](https://github.com/jiankunking/books-recommendation/tree/master/JavaScript) ##
 
@@ -138,10 +141,12 @@
 
 ## [MySQL](https://github.com/jiankunking/books-recommendation/tree/master/MySQL) ##
 
-- MySQL技术内幕_InnoDB存储引擎_第2版（<font face="宋体" color=DeepPink>推荐</font>）
-- 高性能mysql第三版
 - canal
 - otter
+- MySQL技术内幕_InnoDB存储引擎_第2版（<font face="宋体" color=DeepPink>推荐</font>）
+- SQL Cookbook(中文，完整目录)
+- 高性能mysql第三版
+
 
 ## [Netty](https://github.com/jiankunking/books-recommendation/tree/master/Netty) ##
 
@@ -160,6 +165,10 @@
 ## [REST](https://github.com/jiankunking/books-recommendation/tree/master/REST) ##
 
 - Roy_Thomas_Fielding博士论文REST(中文版)
+
+## [Spring](https://github.com/jiankunking/books-recommendation/tree/master/Spring) ##
+
+- Spring实战（第4版）
 
 ## [RegEx](https://github.com/jiankunking/books-recommendation/tree/master/RegEx) ##
 
@@ -212,8 +221,10 @@
 ## [网络](https://github.com/jiankunking/books-recommendation/tree/master/网络) ##
 
  - 图解网络硬件完整版
+ - 计算机网络--谢希仁
 
 ## [计算机基础](https://github.com/jiankunking/books-recommendation/tree/master/计算机基础) ##
 
  - 深入理解计算机系统
+ - 计算机组成原理--唐朔飞
 
