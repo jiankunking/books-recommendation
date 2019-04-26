@@ -166,6 +166,10 @@
 
 - Roy_Thomas_Fielding博士论文REST(中文版)
 
+## [RocketMQ](https://github.com/jiankunking/books-recommendation/tree/master/RocketMQ) ##
+
+- RocketMQ技术内幕(带书签)
+
 ## [Spring](https://github.com/jiankunking/books-recommendation/tree/master/Spring) ##
 
 - Spring实战（第4版）
