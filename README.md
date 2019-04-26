@@ -117,6 +117,7 @@
 - kubernetes-handbook
   - feiskyer
   - rootsongjc
+- 深入剖析Kubernetes
 
 ## [Linux](https://github.com/jiankunking/books-recommendation/tree/master/Linux) ##
 
