@@ -159,6 +159,11 @@
 - Nginx模块开发与架构解析
 - 实战Nginx
 
+## [OAuth](https://github.com/jiankunking/books-recommendation/tree/master/OAuth) ##
+
+- OAuth 2.0 Cookbook
+- OAuth 2实战
+
 ## [Prometheus](https://github.com/jiankunking/books-recommendation/tree/master/Prometheus) ##
 
 - Prometheus 实战
