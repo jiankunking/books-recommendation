@@ -163,6 +163,7 @@
 
 - OAuth 2.0 Cookbook
 - OAuth 2实战（<font face="宋体" color=DeepPink>推荐</font>）
+  - [OAuth 2实战 演示代码](https://github.com/jiankunking/oauth-in-action-code)
 
 ## [Prometheus](https://github.com/jiankunking/books-recommendation/tree/master/Prometheus) ##
 
