@@ -179,6 +179,7 @@
 
 ## [Spring](https://github.com/jiankunking/books-recommendation/tree/master/Spring) ##
 
+- Building a REST API with Spring
 - Spring实战（第4版）
 
 ## [RegEx](https://github.com/jiankunking/books-recommendation/tree/master/RegEx) ##
