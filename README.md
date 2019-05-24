@@ -81,13 +81,16 @@
  - 性能之巅 洞悉系统、企业与云计算
  - 重构 改善既有代码的设计
  - Clean Code(代码整洁之道，中文，完整目录)
+ - 程序员健康指南（手动狗头）
  - 黑客与画家(中文版)
 
   
 ## [Java](https://github.com/jiankunking/books-recommendation/tree/master/Java) ##
 
+- Effective Java（第2版）
 - HotSpot实战
 - Java编程思想第四版
+- 大话设计模式(带目录完整版)
 - 深入分析Java Web技术内幕（修订版）带完整目录（<font face="宋体" color=DeepPink>推荐</font>）
 - 深入理解JVM＆G1GC
 - Java并发编程的艺术（<font face="宋体" color=DeepPink>推荐</font>）
