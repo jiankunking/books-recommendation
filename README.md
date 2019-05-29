@@ -243,3 +243,6 @@
  - 深入理解计算机系统
  - 计算机组成原理--唐朔飞
 
+ ## 个人微信公众号
+ ![个人微信公众号](https://github.com/jiankunking/books-recommendation/blob/master/wechat.jpg)
+
