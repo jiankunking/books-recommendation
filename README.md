@@ -3,8 +3,7 @@
 # Catalog #
 
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
- - 剑指Offer
- - 程序员面试宝典（第五版）
+
  - 算法图解 （<font face="宋体" color=DeepPink>推荐</font>）
  - 算法新解_刘新宇
 
@@ -78,6 +77,8 @@
 ## [Interview](https://github.com/jiankunking/books-recommendation/tree/master/Interview) ##
 
 - 2019阿里巴巴技术面试题集锦（含答案）
+- 剑指Offer
+- 程序员面试宝典（第五版）
 
 ## [IT休闲书籍](https://github.com/jiankunking/books-recommendation/tree/master/IT%E4%BC%91%E9%97%B2%E4%B9%A6%E7%B1%8D) ##
 
