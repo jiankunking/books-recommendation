@@ -177,6 +177,10 @@
 
 - Prometheus 实战
 
+## [Python](https://github.com/jiankunking/books-recommendation/tree/master/Python) ##
+
+- 流畅的Python
+
 ## [REST](https://github.com/jiankunking/books-recommendation/tree/master/REST) ##
 
 - Roy_Thomas_Fielding博士论文REST(中文版)
