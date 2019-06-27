@@ -12,6 +12,9 @@
 
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
 
+ - [编程珠玑（第2版）].黄倩.扫描版
+ - 挑战程序设计竞赛_算法和数据结构_渡部有隆
+ - 数据结构与算法分析：C语言描述
  - 算法图解 （<font face="宋体" color=DeepPink>推荐</font>）
  - 算法新解_刘新宇
 
@@ -23,6 +26,11 @@
 
 - 分布式服务架构.原理、设计与实战
 - 大型网站技术架构：核心原理与案例分析 （<font face="宋体" color=DeepPink>推荐</font>）
+
+## [Compiler](https://github.com/jiankunking/books-recommendation/tree/master/Compiler) 
+ - 编译原理
+ - 编译原理及实践
+ - 
 
 ## [CPU](https://github.com/jiankunking/books-recommendation/tree/master/CPU) 
  - 64-ia-32-architectures-software-developer-vol-3a-part-1-manual.pdf
@@ -68,13 +76,21 @@
    - JSGCT.mobi
    - JSGCT.pdf
 
+## [Git](https://github.com/jiankunking/books-recommendation/tree/master/Git) ##
+
+- GitHub入门与实践
+- ProGit中文版
+
 ## [Go](https://github.com/jiankunking/books-recommendation/tree/master/Go) ##
 
 - Go并发编程实战_第2版_郝林
 - Go语言学习笔记_雨痕
-- go-internals-zh
-- steal
 - go-gc（Rick Hudson）
+- go-internals-zh
+- Go源码剖析
+- go程序设计语言
+- Go语言实战
+- steal
 
 ## [HTTP](https://github.com/jiankunking/books-recommendation/tree/master/HTTP) ##
 
@@ -151,6 +167,7 @@
 ## [MongoDB](https://github.com/jiankunking/books-recommendation/tree/master/MongoDB) ##
 
  - MongoDB权威指南第2版
+ - 深入学习MongoDB
 
 ## [Monitor](https://github.com/jiankunking/books-recommendation/tree/master/Monitor) ##
 
@@ -172,8 +189,17 @@
 
 ## [Nginx](https://github.com/jiankunking/books-recommendation/tree/master/Nginx) ##
 
-- Nginx模块开发与架构解析
 - 实战Nginx
+- 深入理解Nginx：模块开发与架构解析（第2版）
+
+## [Nodejs](https://github.com/jiankunking/books-recommendation/tree/master/Nodejs) ##
+
+- Node学习指南
+- Node.js开发指南
+- Node.js实战
+- Node即学即用
+- Node与Express开发
+- 深入浅出Node.js
 
 ## [OAuth](https://github.com/jiankunking/books-recommendation/tree/master/OAuth) ##
 
@@ -187,7 +213,16 @@
 
 ## [Python](https://github.com/jiankunking/books-recommendation/tree/master/Python) ##
 
+- Python网络编程_第3版
 - 流畅的Python
+- python核心编程
+
+## [Redis](https://github.com/jiankunking/books-recommendation/tree/master/Redis) ##
+
+- Redis设计与实现
+- Redis实战
+- Redis开发与运维
+- Redis入门指南（第2版）
 
 ## [REST](https://github.com/jiankunking/books-recommendation/tree/master/REST) ##
 
@@ -211,6 +246,10 @@
 
 - 图解TCPIP（<font face="宋体" color=DeepPink>推荐</font>）
 - TCP-IP详解（<font face="宋体" color=DeepPink>推荐</font>）
+
+## [Vim](https://github.com/jiankunking/books-recommendation/tree/master/Vim) ##
+
+- Vim实用技巧
 
 ## [ZooKeeper](https://github.com/jiankunking/books-recommendation/tree/master/ZooKeeper) ##
 
@@ -259,5 +298,8 @@
 ## [计算机基础](https://github.com/jiankunking/books-recommendation/tree/master/计算机基础) ##
 
  - 深入理解计算机系统
+ - 现代操作系统
+ - 计算机系统要素：从零开始构建现代计算机
  - 计算机组成原理--唐朔飞
+ - 计算的本质：深入剖析程序和计算机
 
