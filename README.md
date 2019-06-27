@@ -177,6 +177,7 @@
 
 - canal
 - otter
+- MySQL必知必会
 - MySQL技术内幕_InnoDB存储引擎_第2版（<font face="宋体" color=DeepPink>推荐</font>）
 - SQL Cookbook(中文，完整目录)
 - 高性能mysql第三版
