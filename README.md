@@ -92,6 +92,10 @@
 - Go语言实战
 - steal
 
+## [HBase](https://github.com/jiankunking/books-recommendation/tree/master/HBase) ##
+
+- HBase权威指南中文版
+
 ## [HTTP](https://github.com/jiankunking/books-recommendation/tree/master/HTTP) ##
 
 - 图解HTTP+彩色版（<font face="宋体" color=DeepPink>推荐</font>）
