@@ -4,8 +4,11 @@
 
 > 如有侵权，请联系删除！
 
- ## 微信公众号
- ![衣舞晨风](https://github.com/jiankunking/books-recommendation/blob/master/wechat.jpg)
+ ## 微信公众号(非技术)
+ ![衣舞晨风](https://github.com/jiankunking/books-recommendation/wechat.jpg)
+
+ ## 个人博客
+ [jiankunking.github.io](https://jiankunking.github.io) 
 
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
 
