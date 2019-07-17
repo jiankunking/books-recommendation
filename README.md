@@ -4,11 +4,16 @@
 
 > 如有侵权，请联系删除！
 
+<<<<<<< HEAD
  ## 微信公众号(非技术)
  ![衣舞晨风](https://github.com/jiankunking/books-recommendation/wechat.jpg)
 
  ## 个人博客
  [jiankunking.github.io](https://jiankunking.github.io) 
+=======
+ ## 微信公众号
+ ![衣舞晨风](http://pursihefu.bkt.clouddn.com/wechat.jpg)
+>>>>>>> dda4722a3c6be7b58edc7938f79f69a46a8c09f3
 
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
 
