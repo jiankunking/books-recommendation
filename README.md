@@ -6,7 +6,7 @@
 
 
  ## 微信公众号(非技术)
- ![衣舞晨风](https://github.com/jiankunking/books-recommendation/wechat.jpg)
+ ![衣舞晨风](https://github.com/jiankunking/books-recommendation/blob/master/wechat.jpg)
 
  ## 个人技术博客
  [jiankunking blog](https://jiankunking.github.io) 
