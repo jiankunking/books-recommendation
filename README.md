@@ -5,7 +5,7 @@
 > 如有侵权，请联系删除！
 
  ## 微信公众号
- ![衣舞晨风](https://github.com/jiankunking/books-recommendation/blob/master/wechat.jpg)
+ ![衣舞晨风](http://pursihefu.bkt.clouddn.com/wechat.jpg)
 
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
 
