@@ -5,11 +5,14 @@
 > 如有侵权，请联系删除！
 
 
- ## 微信公众号(非技术)
+## 微信公众号
  ![衣舞晨风](https://github.com/jiankunking/books-recommendation/blob/master/wechat.jpg)
 
- ## 个人技术博客
- [jiankunking blog](https://jiankunking.github.io) 
+## 掘金
+[掘金 blog](https://juejin.im/user/5d3192c2e51d45775313828f/posts) 
+
+## CSDN 
+[CSDN blog](https://blog.csdn.net/jiankunking) 
 
 
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
