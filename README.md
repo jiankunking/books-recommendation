@@ -15,6 +15,9 @@
 ### CSDN 
 [CSDN blog](https://blog.csdn.net/jiankunking) 
 
+### 个人博客 
+[衣舞晨风](http://www.jiankunking.com) 
+
 
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
 
