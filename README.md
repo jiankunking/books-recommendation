@@ -77,22 +77,22 @@
 - envoyproxy-servicemesher-v1.7
 
 ## [GC](https://github.com/jiankunking/books-recommendation/tree/master/gc) ##
-
- - 垃圾回收的算法与实现
- - ZGC
-   - Azul_Pauseless_GC_Algorithm.pdf
-   - ZGC-FOSDEM-2018.pdf
  - G1
    - Java 9 - Garbage Collection.pdf
- - Shenandoah
-   - Shenandoah_GC.pdf
  - GenCon
    - 2018-researchguide-java.pdf
  - HotSpot Virtual Machine Garbage Collection
    - JSGCT.epub
    - JSGCT.mobi
    - JSGCT.pdf
-
+ - Shenandoah
+   - Shenandoah_GC.pdf
+ - ZGC
+   - Azul_Pauseless_GC_Algorithm.pdf
+   - ZGC-FOSDEM-2018.pdf
+  - A Uniﬁed Theory of Garbage Collection
+  - 垃圾回收的算法与实现
+ 
 ## [Git](https://github.com/jiankunking/books-recommendation/tree/master/Git) ##
 
 - GitHub入门与实践
