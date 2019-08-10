@@ -4,7 +4,7 @@
 
 > 如有侵权，请联系删除！
 
-## 个人Blog
+## 个人信息
 
 ### 微信公众号
  ![衣舞晨风](https://github.com/jiankunking/books-recommendation/blob/master/wechat.jpg)
