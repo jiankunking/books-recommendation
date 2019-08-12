@@ -6,6 +6,26 @@
 
 ## 个人信息
 
+另有视频部分：
+* Nginx
+* NIO
+* 汇编语言
+* 计算机组成原理
+* Python
+* 操作系统
+* 安卓移动开发
+* Go编程基础
+* Docker技术
+* Zookeeper入门到精通
+* Linux
+* ELK深入浅出部分
+* 正则表达式
+* Kafka原理剖析及实战演练
+* Hadoop
+* Spring Cloud
+
+需要的朋友请加下面的微信公众号联系。
+
 ### 微信公众号
  ![衣舞晨风](https://github.com/jiankunking/books-recommendation/blob/master/wechat.jpg)
 
