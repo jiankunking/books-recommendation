@@ -161,6 +161,8 @@
 - Effective Java（第2版）
 - HotSpot实战
 - Java编程思想第四版
+- Java性能优化权威指南
+- JRockit权威指南 深入理解JVM_曹旭东
 - 大话设计模式(带目录完整版)
 - 深入分析Java Web技术内幕（修订版）带完整目录（<font face="宋体" color=DeepPink>推荐</font>）
 - 深入理解JVM＆G1GC
