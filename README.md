@@ -28,7 +28,6 @@
 
 ### 微信公众号
 精选重磅好文，专注于源码解析、架构设计。 关注一下呗。
-
 <br><img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f60a.png"><br>
  ![衣舞晨风](https://github.com/jiankunking/books-recommendation/blob/master/wechat.jpg)
 
