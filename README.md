@@ -31,14 +31,8 @@
 <br><img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f60a.png"><br>
  ![衣舞晨风](https://github.com/jiankunking/books-recommendation/blob/master/wechat.jpg)
 
-### 掘金
-[掘金 blog](https://juejin.im/user/5d3192c2e51d45775313828f/posts) 
-
-### CSDN 
-[CSDN blog](https://blog.csdn.net/jiankunking) 
-
 ### 个人博客
-[衣舞晨风](https://jiankunking.com) 
+[https://jiankunking.com](https://jiankunking.com) 
 
 
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
