@@ -123,6 +123,7 @@
 - go-internals-zh
 - Go源码剖析
 - go程序设计语言
+- Go语言高级编程(中文版)（推荐）
 - Go语言实战
 - steal
 
