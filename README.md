@@ -107,6 +107,7 @@
  - ZGC
    - Azul_Pauseless_GC_Algorithm.pdf
    - ZGC-FOSDEM-2018.pdf
+ - 垃圾回收算法手册：自动内存管理的艺术
   - A Uniﬁed Theory of Garbage Collection
   - 垃圾回收的算法与实现
  
