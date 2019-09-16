@@ -167,6 +167,7 @@
 - Java并发编程的艺术（<font face="宋体" color=DeepPink>推荐</font>）
 - java并发编程实战及源码
 - Java多线程编程核心技术 带书签目录
+- Java性能权威指南
 - Java性能调优指南
 - Java虚拟机（第二版）
 - Java虚拟机精讲
