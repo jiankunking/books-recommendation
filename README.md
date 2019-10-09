@@ -162,6 +162,9 @@
 - Java性能优化权威指南
 - JRockit权威指南 深入理解JVM_曹旭东
 - 大话设计模式(带目录完整版)
+  - 大话设计模式-程杰.epub
+  - 大话设计模式-程杰.mobi
+  - 大话设计模式-程杰.pdf
 - 深入分析Java Web技术内幕（修订版）带完整目录（<font face="宋体" color=DeepPink>推荐</font>）
 - 深入理解JVM＆G1GC
 - Java并发编程的艺术（<font face="宋体" color=DeepPink>推荐</font>）
