@@ -167,6 +167,7 @@
   - 大话设计模式-程杰.pdf
 - 深入分析Java Web技术内幕（修订版）带完整目录（<font face="宋体" color=DeepPink>推荐</font>）
 - 深入理解JVM＆G1GC
+- Java 8 实战
 - Java并发编程的艺术（<font face="宋体" color=DeepPink>推荐</font>）
 - java并发编程实战及源码
 - Java多线程编程核心技术 带书签目录
