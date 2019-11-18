@@ -304,6 +304,10 @@
 
 - 从PAXOS到ZOOKEEPER分布式一致性原理与实践
 
+## [安全](https://github.com/jiankunking/books-recommendation/tree/master/安全) ##
+
+- 白帽子讲Web安全
+
 ## [小说](https://github.com/jiankunking/books-recommendation/tree/master/小说) ##
 
  - 罗生门
