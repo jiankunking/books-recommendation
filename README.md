@@ -159,6 +159,7 @@
 - Effective Java（第2版）
 - HotSpot实战
 - Java编程思想第四版
+- Java高并发编程详解-汪文君
 - Java性能优化权威指南
 - JRockit权威指南 深入理解JVM_曹旭东
 - 大话设计模式(带目录完整版)
@@ -177,7 +178,6 @@
 - Java虚拟机精讲
 - 码出高效：Java 开发手册
 - 实战JAVA虚拟机JVM故障诊断与性能优化
-- Java高并发编程详解-汪文君
   
 ## [JavaScript](https://github.com/jiankunking/books-recommendation/tree/master/JavaScript) ##
 
