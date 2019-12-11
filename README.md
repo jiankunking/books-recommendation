@@ -177,7 +177,8 @@
 - Java虚拟机精讲
 - 码出高效：Java 开发手册
 - 实战JAVA虚拟机JVM故障诊断与性能优化
-
+- Java高并发编程详解-汪文君
+  
 ## [JavaScript](https://github.com/jiankunking/books-recommendation/tree/master/JavaScript) ##
 
 - JavaScript权威指南
