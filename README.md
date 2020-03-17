@@ -58,7 +58,7 @@
 - 大型网站技术架构：核心原理与案例分析 （<font face="宋体" color=DeepPink>推荐</font>）
 - 从零开始学架构（李运华）
 
-## ClickHouse
+## [ClickHouse](https://github.com/jiankunking/books-recommendation/tree/master/ClickHouse) 
  - ClickHouse MergeTree原理解析-朱凯
  - ClickHouse官方中文文档
  - Clickhouse玩转每天千亿数据-趣头条
