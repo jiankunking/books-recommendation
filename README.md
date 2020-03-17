@@ -64,7 +64,7 @@
  - ClickHouse在苏宁用户画像场景的实践
  - ClickHouse在众安的实践
  - 数仓ClickHouse多维分析应用实践-朱元
- - 腾讯clickhouse实践 _2019丁晓坤&熊峰
+ - 腾讯Clickhouse实践_2019丁晓坤&熊峰
 
 ## [Compiler](https://github.com/jiankunking/books-recommendation/tree/master/Compiler) 
  - 编译原理
