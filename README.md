@@ -58,6 +58,14 @@
 - 大型网站技术架构：核心原理与案例分析 （<font face="宋体" color=DeepPink>推荐</font>）
 - 从零开始学架构（李运华）
 
+## ClickHouse
+ - ClickHouse MergeTree原理解析-朱凯
+ - Clickhouse玩转每天千亿数据-趣头条
+ - ClickHouse在苏宁用户画像场景的实践
+ - ClickHouse在众安的实践
+ - 数仓ClickHouse多维分析应用实践-朱元
+ - 腾讯clickhouse实践 _2019丁晓坤&熊峰
+
 ## [Compiler](https://github.com/jiankunking/books-recommendation/tree/master/Compiler) 
  - 编译原理
  - 编译原理及实践
