@@ -60,6 +60,7 @@
 
 ## ClickHouse
  - ClickHouse MergeTree原理解析-朱凯
+ - ClickHouse官方中文文档
  - Clickhouse玩转每天千亿数据-趣头条
  - ClickHouse在苏宁用户画像场景的实践
  - ClickHouse在众安的实践
