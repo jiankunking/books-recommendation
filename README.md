@@ -209,6 +209,7 @@
   - feiskyer
   - rootsongjc
 - 深入剖析Kubernetes
+- 深入浅出Kubernetes 罗建龙（花名声东）
 
 ## [Linux](https://github.com/jiankunking/books-recommendation/tree/master/Linux) ##
 
