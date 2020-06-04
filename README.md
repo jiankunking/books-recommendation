@@ -187,6 +187,7 @@
 - Java虚拟机（第二版）
 - Java虚拟机精讲
 - 码出高效：Java 开发手册
+- 设计模式.可复用面向对象软件的基础.中文版
 - 实战JAVA虚拟机JVM故障诊断与性能优化
   
 ## [JavaScript](https://github.com/jiankunking/books-recommendation/tree/master/JavaScript) ##
