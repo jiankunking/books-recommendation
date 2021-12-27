@@ -32,7 +32,7 @@
  ![衣舞晨风](https://github.com/jiankunking/books-recommendation/blob/master/wechat.jpg)
 
 ### 个人博客
-[https://jiankunking.com](https://jiankunking.com) 
+[http://jiankunking.com](https://jiankunking.com) 
 
 
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
