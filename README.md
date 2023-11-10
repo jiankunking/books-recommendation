@@ -15,13 +15,24 @@
 [http://jiankunking.com](https://jiankunking.com) 
 
 
+## 极客时间
+- [Redis 核心技术与实战 蒋德钧](https://jiankunking.com/suggestion-for-redis-usage-standards.html) ( `推荐` )
+- [编程高手必学的内存知识 海纳](https://jiankunking.com/memory-knowledge-that-programming-masters-must-learn.html) ( `推荐` )
+- [系统性能调优必知必会 陶辉](https://jiankunking.com/system-performance-tuning-must-know-and-must-know.html) ( `推荐` )
+- [分布式技术原理与算法解析 聂鹏程](https://jiankunking.com/principles-and-algorithm-analysis-of-distributed-technology.html)
+- [后端存储实战课 李玥](https://jiankunking.com/back-end-storage-practical-lesson.html) ( `推荐` )
+- [趣谈网络协议 刘超](https://jiankunking.com/fun-talk-about-network-protocols.html) ( `推荐` )
+- [Linux性能优化实战 倪朋飞](https://jiankunking.com/linux-performance-optimization-practices.html) ( `推荐` )
+- [MySQL实战45讲 林晓斌](https://jiankunking.com/45-lectures-on-mysql-in-practice.html) ( `推荐` )
+- [MySQL 必知必会 朱晓峰](https://jiankunking.com/mysql-must-know-and-must-know.html) ( `推荐` )
+
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
 
  - [编程珠玑（第2版）].黄倩.扫描版
  - 挑战程序设计竞赛_算法和数据结构_渡部有隆
  - 数据结构与算法分析：C语言描述
  - 算法技术手册
- - 算法图解 （<font face="宋体" color=DeepPink>推荐</font>）
+ - 算法图解 ( `推荐` )
  - 算法新解_刘新宇
 
 ## [Andriod](https://github.com/jiankunking/books-recommendation/tree/master/Andriod) 
@@ -35,7 +46,7 @@
 ## [Architecture](https://github.com/jiankunking/books-recommendation/tree/master/Architecture) ##
 
 - 分布式服务架构.原理、设计与实战
-- 大型网站技术架构：核心原理与案例分析 （<font face="宋体" color=DeepPink>推荐</font>）
+- 大型网站技术架构：核心原理与案例分析 ( `推荐` )
 - 从零开始学架构（李运华）
 
 ## [ClickHouse](https://github.com/jiankunking/books-recommendation/tree/master/ClickHouse) 
@@ -57,7 +68,7 @@
  - Intel® 64 and IA-32 architectures software developer’s manual
 
 ## [Database](https://github.com/jiankunking/books-recommendation/tree/master/Database) 
- - 数据库索引设计与优化（<font face="宋体" color=DeepPink>推荐</font>）
+ - 数据库索引设计与优化( `推荐` )
 
 ## [Distributed](https://github.com/jiankunking/books-recommendation/tree/master/Distributed) ##
 
@@ -70,14 +81,14 @@
 
 ## [DotNet](https://github.com/jiankunking/books-recommendation/tree/master/DotNet) ##
 
-- NET_CLR_via_C#(第4版)（<font face="宋体" color=DeepPink>推荐</font>）
+- NET_CLR_via_C#(第4版)( `推荐` )
 
 ## [ELK](https://github.com/jiankunking/books-recommendation/tree/master/ELK) ##
 
 - elk-stack-guide-cn
 - Elasticsearch服务器开发（第2版）
 - 深入理解ElasticSearch
-- Elasticsearch源码解析与优化实战（<font face="宋体" color=DeepPink>推荐</font>）
+- Elasticsearch源码解析与优化实战( `推荐` )
 
 ## [Envoy](https://github.com/jiankunking/books-recommendation/tree/master/Envoy) ##
 
@@ -124,7 +135,7 @@
 
 ## [HTTP](https://github.com/jiankunking/books-recommendation/tree/master/HTTP) ##
 
-- 图解HTTP+彩色版（<font face="宋体" color=DeepPink>推荐</font>）
+- 图解HTTP+彩色版( `推荐` )
 - HTTP-2基础教程
 - Web性能权威指南
 
@@ -156,10 +167,10 @@
   - 大话设计模式-程杰.epub
   - 大话设计模式-程杰.mobi
   - 大话设计模式-程杰.pdf
-- 深入分析Java Web技术内幕（修订版）带完整目录（<font face="宋体" color=DeepPink>推荐</font>）
+- 深入分析Java Web技术内幕（修订版）带完整目录( `推荐` )
 - 深入理解JVM＆G1GC
 - Java 8 实战
-- Java并发编程的艺术（<font face="宋体" color=DeepPink>推荐</font>）
+- Java并发编程的艺术( `推荐` )
 - java并发编程实战及源码
 - Java多线程编程核心技术 带书签目录
 - Java性能权威指南
@@ -177,11 +188,11 @@
 ## [Kafka](https://github.com/jiankunking/books-recommendation/tree/master/Kafka) ##
 
 - Kafka技术内幕
-- Kafka权威指南（<font face="宋体" color=DeepPink>推荐</font>）
+- Kafka权威指南( `推荐` )
 - Apache Kafka实战
 - Kafka入门与实践
 - Kafka源码解析与实战
-- Apache Kafka源码剖析（<font face="宋体" color=DeepPink>推荐</font>）
+- Apache Kafka源码剖析( `推荐` )
 
 ## [Kubernetes](https://github.com/jiankunking/books-recommendation/tree/master/Kubernetes) ##
 
@@ -219,7 +230,7 @@
 - canal
 - otter
 - MySQL必知必会
-- MySQL技术内幕_InnoDB存储引擎_第2版（<font face="宋体" color=DeepPink>推荐</font>）
+- MySQL技术内幕_InnoDB存储引擎_第2版( `推荐` )
 - SQL Cookbook(中文，完整目录)
 - 高性能mysql第三版
 
@@ -246,7 +257,7 @@
 ## [OAuth](https://github.com/jiankunking/books-recommendation/tree/master/OAuth) ##
 
 - OAuth 2.0 Cookbook
-- OAuth 2实战（<font face="宋体" color=DeepPink>推荐</font>）
+- OAuth 2实战( `推荐` )
   - [OAuth 2实战 演示代码](https://github.com/jiankunking/oauth-in-action-code)
 
 ## [Prometheus](https://github.com/jiankunking/books-recommendation/tree/master/Prometheus) ##
@@ -286,8 +297,10 @@
 
 ## [TCP](https://github.com/jiankunking/books-recommendation/tree/master/TCP) ##
 
-- 图解TCPIP（<font face="宋体" color=DeepPink>推荐</font>）
-- TCP-IP详解（<font face="宋体" color=DeepPink>推荐</font>）
+- 图解TCPIP( `推荐` )
+- TCP-IP详解( `推荐` )
+- Wireshark网络分析的艺术 林沛满 ( `推荐` )
+- Wireshark网络分析就这么简单 林沛满 ( `推荐` )
 
 ## [Vim](https://github.com/jiankunking/books-recommendation/tree/master/Vim) ##
 
