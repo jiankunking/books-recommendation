@@ -24,7 +24,7 @@
 - [趣谈网络协议 刘超](https://jiankunking.com/fun-talk-about-network-protocols.html) ( `推荐` )
 - [Linux性能优化实战 倪朋飞](https://jiankunking.com/linux-performance-optimization-practices.html) ( `推荐` )
 - [MySQL实战45讲 林晓斌](https://jiankunking.com/45-lectures-on-mysql-in-practice.html) ( `推荐` )
-- [MySQL 必知必会 朱晓峰](https://jiankunking.com/mysql-must-know-and-must-know.html) ( `推荐` )
+- [MySQL 必知必会 朱晓峰](https://jiankunking.com/mysql-must-know-and-must-know.html)
 
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
 
