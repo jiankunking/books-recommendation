@@ -26,6 +26,7 @@
 - [MySQL实战45讲 林晓斌](https://jiankunking.com/45-lectures-on-mysql-in-practice.html) ( `推荐` )
 - [MySQL 必知必会 朱晓峰](https://jiankunking.com/mysql-must-know-and-must-know.html)
 
+
 ## [Algorithms](https://github.com/jiankunking/books-recommendation/tree/master/Algorithms) 
 
  - [编程珠玑（第2版）].黄倩.扫描版
@@ -79,6 +80,10 @@
 - DOCKER技术入门与实战
 - Docker容器与容器云第2版
 
+## [DNS](https://github.com/jiankunking/books-recommendation/tree/master/DNS) ##
+
+- DNS与BIND 第3版
+
 ## [DotNet](https://github.com/jiankunking/books-recommendation/tree/master/DotNet) ##
 
 - NET_CLR_via_C#(第4版)( `推荐` )
@@ -89,6 +94,7 @@
 - Elasticsearch服务器开发（第2版）
 - 深入理解ElasticSearch
 - Elasticsearch源码解析与优化实战( `推荐` )
+- 相关性搜索:利用Solr与Elasticsearch创建智能应用( `推荐` )
 
 ## [Envoy](https://github.com/jiankunking/books-recommendation/tree/master/Envoy) ##
 
@@ -322,12 +328,12 @@
  - 爱的进化论
  - 被讨厌的勇气
  - 菜根谭
- - 大秦帝国
+ - 大秦帝国( `推荐` )
  - 婚姻的意义
  - 激荡十年 水大鱼大
  - 看见
  - 康熙大帝
- - 送你一颗子弹
+ - 送你一颗子弹( `推荐` )
  - 盔甲骑士
  - 明朝那些事
  - 挪威的森林
@@ -338,6 +344,9 @@
  - 哲学与人生
  - 重生之出人头地
  - 自卑与超越
+ - 身份的焦虑( `推荐` )
+ - 观鹤笔记( `推荐` )
+ - 剑来( `推荐` )
 
 ## [日志](https://github.com/jiankunking/books-recommendation/tree/master/日志) ##
 
