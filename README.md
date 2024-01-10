@@ -347,6 +347,8 @@
  - 身份的焦虑( `推荐` )
  - 观鹤笔记( `推荐` )
  - 剑来( `推荐` )
+ - 身份的焦虑( `推荐` )
+ - 工作漂流( `推荐` )
 
 ## [日志](https://github.com/jiankunking/books-recommendation/tree/master/日志) ##
 
