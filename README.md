@@ -349,6 +349,8 @@
  - 剑来( `推荐` )
  - 身份的焦虑( `推荐` )
  - 工作漂流( `推荐` )
+ - 刻意暂停( `推荐` )
+ - 精力管理( `推荐` )
 
 ## [日志](https://github.com/jiankunking/books-recommendation/tree/master/日志) ##
 
